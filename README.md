@@ -4,12 +4,13 @@ Financial Analysis Toolkit: Python code for income statements, ratios, break-eve
 This README document provides an overview of the code and its functionalities for conducting financial analysis related to a company's income statement, profitability ratios, break-even analysis, earnings per share (EPS) trends, and sensitivity analysis. The code is written in Python and utilizes various libraries for data analysis and visualization.
 
 Table of Contents
-Libraries and Data Loading
-Sankey Diagram
-Profitability Ratio Analysis
-Break-Even Analysis
-Earnings Per Share (EPS) Trends Analysis
-Sensitivity Analysis
+1. Libraries and Data Loading
+2. Sankey Diagram
+3. Profitability Ratio Analysis
+4. Break-Even Analysis
+5. Earnings Per Share (EPS) Trends Analysis
+6. Sensitivity Analysis
+
 Libraries and Data Loading
 This section of the code imports necessary libraries including numpy, pandas, seaborn, matplotlib, plotly.graph_objects, warnings, and yfinance. These libraries are used for data manipulation, visualization, and fetching historical stock price data. The code loads data from an Excel file using the openpyxl library.
 
